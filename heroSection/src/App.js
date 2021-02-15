@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useRef } from 'react';
 import { gsap, Power3 } from 'gsap';
 
 import ArrowIcon from './assets/arrow-right.svg';
